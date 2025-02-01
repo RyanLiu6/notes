@@ -1,6 +1,6 @@
 # Notes
 
-This is a compilation of notes for courses, books, an d other resources I've taken during my Software Engineer journey, starting from 2025.
+This is a compilation of notes for courses, books, and other resources I've taken during my Software Engineer journey, starting from 2025.
 
 ## Courses
 ### GCP
